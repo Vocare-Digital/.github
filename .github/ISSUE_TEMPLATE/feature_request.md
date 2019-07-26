@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest an idea for this project
 title: ''
-labels: "❗ Needs Estimate, ❗ Needs sprint, \U0001F680 feature"
+labels: "❗ Needs Estimate, \U0001F680 feature"
 assignees: ''
 
 ---
