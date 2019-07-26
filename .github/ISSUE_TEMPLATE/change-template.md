@@ -2,7 +2,7 @@
 name: Change Template
 about: Describe a change needed to the system
 title: ''
-labels: "❗ Needs Estimate, ❗ Needs sprint, \U0001F501 change"
+labels: "❗ Needs Estimate, \U0001F501 change"
 assignees: ''
 
 ---
